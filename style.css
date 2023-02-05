@@ -1,0 +1,12 @@
+.menu{
+    height: 40px;
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ol,li{
+    display: inline;
+    padding-right: 10px;
+} 
